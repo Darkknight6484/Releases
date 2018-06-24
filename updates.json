@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com/LeagueofMemories/Releases/releases/download/win32-x64-prod-v0.6.1",
-    "install": "https://github.com/LeagueofMemories/Releases/releases/download/win32-x64-prod-v0.6.1/League.Of.Memories.Setup.0.6.1.exe",
-    "version": "0.6.1"
+    "update": "https://github.com/LeagueofMemories/Releases/releases/download/win32-ia32-prod-v0.6.2",
+    "install": "https://github.com/LeagueofMemories/Releases/releases/download/win32-ia32-prod-v0.6.2/League.Of.Memories.Setup.0.6.2-ia32.exe",
+    "version": "0.6.2"
   },
   "win32-x64-prod": {
     "update": "https://github.com/LeagueofMemories/Releases/releases/download/win32-x64-prod-v0.6.2",
